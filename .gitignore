@@ -81,7 +81,14 @@ target/
 *.pot
 *.pyc
 __pycache__/
+*/__pycache__/
 local_settings.py
 
 .env
 db.sqlite3
+core/__pycache__/
+escala/__pycache__/
+pessoal/__pycache__/
+previsao/__pycache__/
+servico/__pycache__/
+usuario/__pycache__/
